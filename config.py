@@ -33,7 +33,7 @@ class Txt(object):
     
 ➻ This Bot Also Supports Custom Thumbnail And Custom Caption.
     
-➻ Use /tutorial Command To Know How To Use Me.
+➻ Use /start Command To Get Info On How To Use Me.
     
 <b>Bot Is Made By @TheBotsLibrary</b>"""
     
@@ -44,7 +44,7 @@ Use These Keywords To Setup Custom File Name
 ✓ episode :- To Replace Episode Number
 ✓ quality :- To Replace Video Resolution
 
-<b>➻ Example :</b> <code> /autorename S02-episode Part Timer Devil [Dual] [720p] @Otaku_Library </code>
+<b>➻ Example :</b> <code> /autorename S02-episode Part Timer Devil [Dual] [quality] @Otaku_Library </code>
 
 <b>➻ Your Current Auto Rename Format :</b> <code>{format_template}</code> """
     
